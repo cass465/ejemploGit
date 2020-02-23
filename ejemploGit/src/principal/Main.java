@@ -8,12 +8,14 @@ package principal;
 import vehiculos.Vehiculo;
 
 /**
- *
- * @author cass465
+ * Clase principal del proyecto
+ * @author Camilo Sanabria
+ * @version 1.0.0
  */
 public class Main {
 
     /**
+     * Metodo principal donde se ejecuta el programa
      * @param args the command line arguments
      */
     public static void main(String[] args) {
