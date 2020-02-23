@@ -5,6 +5,8 @@
  */
 package principal;
 
+import vehiculos.Vehiculo;
+
 /**
  *
  * @author cass465
@@ -16,6 +18,7 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Vehiculo v1 = new Vehiculo("Tracto camión", "XVV254", "INTERNATIONAL", "DT-4300", "8000", (short)2007);
     }
     
 }
